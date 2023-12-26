@@ -22,7 +22,7 @@ h1 {
 }
 
 .home {
-  color:#00ff84;
+  color: #00ff84;
   font-size: 15pt;
   margin: 100px;
   text-decoration: none;
@@ -31,27 +31,27 @@ h1 {
 
 .home:hover {
 
-  color:#01ad5a;
+  color: #01ad5a;
 }
 
 .shop:hover {
 
-  color:#01ad5a;
+  color: #01ad5a;
 }
 
 .commands:hover {
 
-  color:#01ad5a;
+  color: #01ad5a;
 }
 
 .contact:hover {
 
-  color:#01ad5a;
+  color: #01ad5a;
 }
 
 
 .shop {
-  color:#00ff84;
+  color: #00ff84;
   font-size: 15pt;
   margin: 100px;
   text-decoration: none;
@@ -59,7 +59,7 @@ h1 {
 }
 
 .commands {
-  color:#00ff84;
+  color: #00ff84;
   font-size: 15pt;
   margin: 100px;
   text-decoration: none;
@@ -67,7 +67,7 @@ h1 {
 }
 
 .contact {
-  color:#00ff84;
+  color: #00ff84;
   font-size: 15pt;
   text-align: center;
   margin: 100px;
@@ -96,46 +96,60 @@ ul {
   height: 225px;
   width: 246px;
   text-align: center;
-padding: 20px;
+  padding: 20px;
   margin-left: 20px;
   border-radius: 20px;
 }
 
 .imagem {
 
-margin: 30px;
+  margin: 30px;
 }
 
 .comprar {
   background-color: #2f3445;
-  margin-left: 43px;
-  margin-top: 0px;
   text-align: center;
   width: 160px;
+  height: 32px;
+}
+
+button {
+  color: white;
+  margin-bottom: 16px;
+  position: absolute;
+  top: 750px;
+  left: 214px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 23px;
+
+  outline: none;
+  border: none;
 }
 
 .comprarc {
   background-color: #2f3445;
   width: 160px;
-  margin-left: 45px;
-  margin-top: -12px;
+  margin-left: 335px;
+  margin-top: 0px;
   text-align: center;
+  height: 32px;
 }
 
 .comprarc:hover {
-background-color: #01ad5a;
-border-radius: 7px;
+  background-color: #01ad5a;
+  border-radius: 7px;
 }
 
 .comprard:hover {
   background-color: #01ad5a;
   border-radius: 7px;
-  }
+}
 
-  .comprar:hover {
-    background-color: #01ad5a;
-    border-radius: 7px;
-    }
+.comprar:hover {
+  background-color: #01ad5a;
+  border-radius: 7px;
+}
 
 .cover {
   font-size: larger;
@@ -145,9 +159,9 @@ border-radius: 7px;
   height: 225px;
   width: 246px;
   text-align: center;
-padding: 20px;
+  padding: 20px;
   margin-left: 315px;
-  margin-top: -275px;
+  margin-top: -228px;
   border-radius: 20px;
   text-align: center;
 }
@@ -160,7 +174,7 @@ padding: 20px;
   height: 225px;
   width: 246px;
   text-align: center;
-padding: 20px;
+  padding: 20px;
   margin-left: 653px;
   margin-top: -266px;
   border-radius: 20px;
@@ -170,9 +184,10 @@ padding: 20px;
 .comprard {
   background-color: #2f3445;
   width: 160px;
-  margin-left: 45px;
-  margin-top: -12px;
+  margin-left: 678px;
+  margin-top: 0px;
   text-align: center;
+  height: 32px;
 }
 
 #enunciado {
